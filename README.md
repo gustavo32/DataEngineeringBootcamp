@@ -1,11 +1,10 @@
-<h2>Bootcamp Online - Engenheiro de Dados</h2>
-<hr/>
-<h5>Bootcamp Schedule<h5>
+<h2>Bootcamp Online - Data Engineering (Powered by <a href="https://www.igti.com.br/custom/engenharia-de-dados/">IGTI</a>)</h2>
+<h4>Bootcamp Schedule</h4>
 <ul>
-    <li>Modulo 01: Introdução</li>
-    <li>Modulo 02: Fundamentos</li>
-    <li>Módulo 03: Armazenamento de Dados</li>
-    <li>Módulo 04: Solução de dados utilizando o Ecossistema Hadoop</li>
-    <li>Módulo 05: Infraestrutura de dados e arquitetura escalável</li>
-    <li>Desafio Final</li>
+    <li>Module 01: Introduction</li>
+    <li>Module 02: Fundamentals</li>
+    <li>Module 03: Data Storage</li>
+    <li>Module 04: Hadoop Ecosystem</li>
+    <li>Module 05: Data Infraestructure and Scalable Architecture</li>
+    <li>Final Challenge</li>
 </ul>
